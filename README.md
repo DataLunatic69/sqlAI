@@ -102,7 +102,7 @@ def connect():
 ### **Results**
 
 Result1:
-![Bar Chart](results/image1.png)
+![output](result3.png)
 Result1:
-![Bar Chart](results/image1.png)
+![output](result4.png)
 
